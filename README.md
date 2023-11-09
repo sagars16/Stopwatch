@@ -8,4 +8,4 @@ A stopwatch consisting of the following features :
 
 * **Reset** : _On click of reset, stop the watch (if already started) and set the timer as zero._
 
-** Demo : ** https://sagars16.github.io/Stopwatch/
+**Demo** : https://sagars16.github.io/Stopwatch/
