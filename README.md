@@ -7,3 +7,5 @@ A stopwatch consisting of the following features :
 * **Stop** : _On click of the stop button, the timer stops._
 
 * **Reset** : _On click of reset, stop the watch (if already started) and set the timer as zero._
+
+** Demo : ** https://sagars16.github.io/Stopwatch/
